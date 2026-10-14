@@ -23,7 +23,7 @@ The Online Banking System is a web-based application developed using Java. It pr
 
 ## ⚙️ Prerequisites
 
-Before running this project, make sure you have installed:
+Before running this project locally, make sure you have installed:
 
 - Java JDK
 - Apache Maven
@@ -56,13 +56,11 @@ Configure the following environment variables according to your local MySQL setu
 - `DB_USER` — Your local MySQL username
 - `DB_PASSWORD` — Your local MySQL password
 
-**Important:** Never upload your actual database password or other sensitive credentials to GitHub.
-
-Each user must configure their own database credentials.
+**Important:** Never upload your actual database password or other sensitive credentials to GitHub. Each user must configure their own database credentials.
 
 ## 🌐 Live Demo
 
-Coming Soon — Online deployment is in progress.
+**[Click Here to Open Online Banking System Dashboard](https://online-banking-system-48n6.onrender.com/dashboard.jsp)**
 
 ## 📂 Project Structure
 
@@ -73,7 +71,7 @@ Coming Soon — Online deployment is in progress.
 
 ## 📌 Project Status
 
-The application runs locally. Online deployment is planned.
+The application has been deployed online. The live demo is available through the link provided above.
 
 ## 🎯 Purpose
 
