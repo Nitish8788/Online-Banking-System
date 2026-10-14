@@ -1,0 +1,10 @@
+target/
+.env
+.DS_Store
+.idea/
+*.iml
+*.env
+.env*
+config.properties
+db.properties
+application.properties
